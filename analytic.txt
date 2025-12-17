@@ -1,0 +1,30 @@
+--- ETL PIPELINE FINAL DATA INSIGHTS REPORT ---
+
+INSIGHT 1: TOTAL REVENUE BY COUNTRY
+Standardizing all sales into USD allows for a direct comparison of market 
+scale. This identifies which country is the primary driver of profit 
+independent of local currency fluctuations.
+
+INSIGHT 2: TOP-PERFORMING PRODUCT CATEGORIES
+By aggregating data across all branches, we can see which categories 
+(like "Electronic Accessories" or "Food and Beverages") have the highest 
+global demand. This is essential for inventory and supplier negotiations.
+
+INSIGHT 3: CUSTOMER SATISFACTION BY CITY
+Comparing the "rating" column across cities like Tokyo, Yangon, and 
+Mandalay highlights operational strengths. High-performing cities can 
+serve as a blueprint for improving lower-rated branches.
+
+INSIGHT 4: MEMBERSHIP VALUE ANALYSIS
+Analyzing "Member" vs. "Normal" customer types reveals the effectiveness 
+of loyalty programs. It shows if members actually spend more or visit 
+more frequently than non-members.
+
+INSIGHT 5: PEAK TRANSACTION HOURS
+Using the "time" column to track sales volume by hour identifies 
+busy periods. This helps managers optimize staff scheduling and 
+time-sensitive marketing promotions.
+
+------------------------------------------------
+Report Generated on: 2025-05-14
+Data Source: presentation/BIG_TABLE.db
