@@ -26,5 +26,4 @@ busy periods. This helps managers optimize staff scheduling and
 time-sensitive marketing promotions.
 
 ------------------------------------------------
-Report Generated on: 2025-05-14
 Data Source: presentation/BIG_TABLE.db
